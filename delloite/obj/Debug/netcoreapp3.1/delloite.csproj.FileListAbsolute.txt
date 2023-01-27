@@ -1,0 +1,14 @@
+/Users/macbookpromid2012/Projects/delloite/delloite/bin/Debug/netcoreapp3.1/delloite
+/Users/macbookpromid2012/Projects/delloite/delloite/bin/Debug/netcoreapp3.1/delloite.deps.json
+/Users/macbookpromid2012/Projects/delloite/delloite/bin/Debug/netcoreapp3.1/delloite.runtimeconfig.json
+/Users/macbookpromid2012/Projects/delloite/delloite/bin/Debug/netcoreapp3.1/delloite.runtimeconfig.dev.json
+/Users/macbookpromid2012/Projects/delloite/delloite/bin/Debug/netcoreapp3.1/delloite.dll
+/Users/macbookpromid2012/Projects/delloite/delloite/bin/Debug/netcoreapp3.1/delloite.pdb
+/Users/macbookpromid2012/Projects/delloite/delloite/obj/Debug/netcoreapp3.1/delloite.csproj.AssemblyReference.cache
+/Users/macbookpromid2012/Projects/delloite/delloite/obj/Debug/netcoreapp3.1/delloite.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpromid2012/Projects/delloite/delloite/obj/Debug/netcoreapp3.1/delloite.AssemblyInfoInputs.cache
+/Users/macbookpromid2012/Projects/delloite/delloite/obj/Debug/netcoreapp3.1/delloite.AssemblyInfo.cs
+/Users/macbookpromid2012/Projects/delloite/delloite/obj/Debug/netcoreapp3.1/delloite.csproj.CoreCompileInputs.cache
+/Users/macbookpromid2012/Projects/delloite/delloite/obj/Debug/netcoreapp3.1/delloite.dll
+/Users/macbookpromid2012/Projects/delloite/delloite/obj/Debug/netcoreapp3.1/delloite.pdb
+/Users/macbookpromid2012/Projects/delloite/delloite/obj/Debug/netcoreapp3.1/delloite.genruntimeconfig.cache
